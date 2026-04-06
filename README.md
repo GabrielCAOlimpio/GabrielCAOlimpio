@@ -41,7 +41,7 @@ Me chamo Gabriel Olímpio, tenho 18 anos e sou de Varginha, Minas Gerais. Sou fo
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCAOlimpio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCAOlimpio&theme=tokyonight&show_icons=true&hide_border=true&langs_count=8" alt="Linguagens" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielCAOlimpio&theme=tokyonight" alt="GitHub Streak" />

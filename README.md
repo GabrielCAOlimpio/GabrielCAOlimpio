@@ -5,7 +5,7 @@
 Me chamo Gabriel Olímpio, tenho 18 anos e sou natural de Varginha, Minas Gerais. Sou formado como Técnico em Informática e apaixonado por tecnologia, com foco em arquitetura de software, criação de APIs escaláveis e segurança de dados. Construo soluções backend robustas utilizando o ecossistema Microsoft (.NET, C#, SQL Server) e compartilho meus projetos práticos e estudos por aqui!
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-olimpio-dev" target="_blank">
+    <a href="www.linkedin.com/in/olimpiodev" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Conecte-se comigo no LinkedIn">
     </a>
     <a href="mailto:contatoolimpiodev@gmail.com" target="_blank">
